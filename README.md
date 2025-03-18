@@ -28,4 +28,5 @@ This project applies **machine learning techniques** to analyze customer behavio
 - **Data-Backed Decision Making** → Helps businesses optimize marketing and customer engagement.  
 - **Efficient Resource Allocation** → Focus on high-risk customers with targeted campaigns.  
  
+![image](https://github.com/user-attachments/assets/b37ac1d3-0bbf-4e58-87ed-746e101f3529)
 
