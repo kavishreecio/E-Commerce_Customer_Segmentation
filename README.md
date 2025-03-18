@@ -23,7 +23,7 @@ This project applies **machine learning techniques** to analyze customer behavio
 - **Premium members** are more loyal, while standard members need better engagement strategies.  
 - **Discount strategies and personalized outreach** can reduce churn.  
 
-## 🔥 Business Impact  
+## Business Impact  
 - **35% Churn Rate Identified** → Enables proactive retention strategies.  
 - **Data-Backed Decision Making** → Helps businesses optimize marketing and customer engagement.  
 - **Efficient Resource Allocation** → Focus on high-risk customers with targeted campaigns.  
